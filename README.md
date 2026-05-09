@@ -1,9 +1,5 @@
 # devops-project
-
-
-# Devops Project
 # CI/CD pipeline enabled
-
 Production-Ready Application Deployment
 Project Overview
 This project demonstrates a production-ready DevOps workflow for deploying a containerized application to AWS using Infrastructure as Code (Terraform), Docker, GitHub Actions CI/CD, Amazon ECS (Fargate), and CloudWatch monitoring.
