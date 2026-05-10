@@ -28,7 +28,7 @@ jobs:
 
       # Build Docker image
       - name: Build Docker Image
-        run: docker build -t devops-app ./app
+        run: docker build -t devops-app ./apps
 
       # Tag Docker image
       - name: Tag Docker Image
