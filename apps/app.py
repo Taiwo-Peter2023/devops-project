@@ -119,8 +119,8 @@ def home():
                 text-decoration:none;
                 background:#38bdf8;
                 color:#0f172a;
-                padding:10px 28px;
-                border-radius:30px;
+                padding:10px 20px;
+                border-radius:20px;
                 font-weight:bold;
                 transition:0.3s;
             }
