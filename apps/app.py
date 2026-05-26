@@ -163,7 +163,7 @@ def home():
 
             <div class="container">
 
-                <h1>🚀 DevOps Deployment Successful</h1>
+                <h1> DevOps Deployment Successful</h1>
 
                 <p>
                     Welcome to <strong>Taiwo Peter Olatunji's</strong>
