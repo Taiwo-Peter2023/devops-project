@@ -1,0 +1,157 @@
+[33mcommit 30f08027c852f8c2c89abe705ced5a6a397bce72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Tue May 26 00:48:54 2026 +0100
+
+    app update
+
+[33mcommit e5f9cb30f7af06e452d68156392b414790e4aef4[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Fri May 22 16:01:17 2026 +0100
+
+    the main.tf file is empty
+
+[33mcommit 33f0315e89ad09859b964f065f72a0360087effc[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Fri May 22 15:53:27 2026 +0100
+
+    Rename ec2.tf to ecs.tf
+
+[33mcommit a1950c1b403446b9b0f729c36e6d5c2f2eccdaac[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Mon May 11 00:38:36 2026 +0100
+
+    Update to Readme
+
+[33mcommit 7f90f4b84c3abf391722e4a3acd0a8f752315bc1[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 09:54:49 2026 +0100
+
+    Updated professional web interface
+
+[33mcommit 0516410cfbaec5aef56f768769b75b91a04a18e1[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 09:37:52 2026 +0100
+
+    Added GitHub Actions debug step
+
+[33mcommit f1f2c333fb3c0a625c0724f1d4e61723f65e5263[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 08:30:59 2026 +0100
+
+    Fixed apps folder casing
+
+[33mcommit 45b36583a4d1a9573adf6dc528e3e14f88691874[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 08:26:53 2026 +0100
+
+    Fixed Docker build apps path
+
+[33mcommit a6c8e19e092280bd1dffc9d4b4fe5aeb345a3107[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 02:29:30 2026 +0100
+
+    Fix Docker Hub authentication
+
+[33mcommit 36fde1fd1d7c520eda39b65d33c1ccf4aae1990d[m
+Merge: 0029f75 38eef51
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 01:02:38 2026 +0100
+
+    Merge branch 'main' of https://github.com/Taiwo-Peter2023/devops-project
+
+[33mcommit 0029f75f658e81dfd403f68a51819283718dce84[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 01:00:32 2026 +0100
+
+    update README.md and app.py
+
+[33mcommit 38eef5130944e44b8671e900f0ce1419a3b5c9de[m
+Author: Taiwo Olatunji <131211617+Taiwo-Peter2023@users.noreply.github.com>
+Date:   Sun May 10 00:41:48 2026 +0100
+
+    Refactor README to improve clarity and formatting
+    
+    Removed redundant headings and cleaned up formatting.
+
+[33mcommit 2a310963daa4fa822b47e14d9243f15a818d0eb0[m
+Author: Taiwo Olatunji <131211617+Taiwo-Peter2023@users.noreply.github.com>
+Date:   Sun May 10 00:40:14 2026 +0100
+
+    Enhance README with detailed project information
+    
+    Expanded project overview, objectives, architecture, and deployment details for the DevOps project.
+
+[33mcommit b39a433308051e6b57a6e08a06f04e7a1c4c2a93[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sun May 10 00:13:37 2026 +0100
+
+    Final CI/CD setup for ECS deployment
+
+[33mcommit 84a873999a8fa102ea54b09aa2eff70d93282c31[m
+Author: Taiwo Olatunji <131211617+Taiwo-Peter2023@users.noreply.github.com>
+Date:   Sat May 9 04:57:20 2026 +0100
+
+    Add files via upload
+
+[33mcommit c9d815942d1d84acc63b093813e922aee09b4a27[m
+Author: Taiwo Olatunji <131211617+Taiwo-Peter2023@users.noreply.github.com>
+Date:   Sat May 9 04:49:07 2026 +0100
+
+    Add files via upload
+
+[33mcommit 2a2f4cf4c51b370d2afa2f6a0400ab0bae125a4e[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sat May 9 04:17:14 2026 +0100
+
+    Fixed GitHub Actions workflow
+
+[33mcommit 8380702503f8f0196da7a8bf4b8f099d8d1b2d8c[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sat May 9 03:58:57 2026 +0100
+
+    Fix CI/CD secrets configuration
+
+[33mcommit a28fcb1c3bab7d68e53cea94c2d2f1aa66ec8498[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sat May 9 01:50:34 2026 +0100
+
+    Added GitHub Actions CI/CD pipeline
+
+[33mcommit 4555a7a9e878c4fa0ca94d75ea1561f5e36e0208[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Sat May 9 01:24:13 2026 +0100
+
+    Fix CI/CD secrets configuration
+
+[33mcommit 4d3738fc66c810f9ea47c7b87642a149a35a3321[m
+Author: Taiwo Olatunji <131211617+Taiwo-Peter2023@users.noreply.github.com>
+Date:   Fri May 8 23:36:57 2026 +0100
+
+    Update README to include CI/CD pipeline information
+    
+    Added note about CI/CD pipeline.
+
+[33mcommit 55789158a34a4778ccfe27d345f5ecd3b22290eb[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Fri May 8 23:25:02 2026 +0100
+
+    Added GitHub Actions CI/CD pipeline
+
+[33mcommit fc963209284c3786db765637bfc8f87457ba8056[m
+Merge: 6b9edf8 c1cd27b
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Fri May 8 23:06:02 2026 +0100
+
+    Merge branch 'main' of https://github.com/Taiwo-Peter2023/devops-project
+
+[33mcommit c1cd27be17cabe5f113083918d94537f0748d292[m
+Author: Taiwo Olatunji <131211617+Taiwo-Peter2023@users.noreply.github.com>
+Date:   Fri May 8 22:15:24 2026 +0100
+
+    Initial commit
+
+[33mcommit 6b9edf8dcec0197ca7eabd2276007bd6b3aa0859[m
+Author: Taiwo Peter Olatunji <taiwopeter2018@gmail.com>
+Date:   Fri May 8 22:08:48 2026 +0100
+
+    Initial DevOps project setup
