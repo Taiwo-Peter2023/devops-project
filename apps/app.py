@@ -119,7 +119,7 @@ def home():
                 text-decoration:none;
                 background:#38bdf8;
                 color:#0f172a;
-                padding:14px 28px;
+                padding:10px 28px;
                 border-radius:30px;
                 font-weight:bold;
                 transition:0.3s;
@@ -178,7 +178,7 @@ def home():
                 </p>
 
                 <div class="status">
-                    ✅ Application Running Successfully
+                     Application Running Successfully
                 </div>
 
                 <!-- BUTTONS -->
