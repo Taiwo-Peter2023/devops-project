@@ -48,6 +48,12 @@ resource "aws_ecs_service" "app_service" {
   launch_type     = "FARGATE"
   desired_count   = 1
 
+  load_balancer {
+  target_group_arn = aws_lb_target_group.app_tg.arn
+  container_name   = "devops-app"
+  container_port   = 5000
+}
+
   network_configuration {
     subnets = [
       aws_subnet.public_1.id,
