@@ -120,12 +120,14 @@ devops-project/
 │   └── Dockerfile
 │
 ├── terraform/
-│   ├── provider.tf
-│   ├── vpc.tf
-│   ├── ecs.tf
 │   ├── iam.tf
+│   ├── alb.tf
+│   ├── ecs.tf
+│   ├── network.tf
+│   ├── security.tf
 │   ├── variables.tf
-│   └── outputs.tf
+│   └── provider.tf
+  
 │
 ├── .github/
 │   └── workflows/
@@ -618,7 +620,6 @@ The following security best practices were implemented:
 
 Current implementation limitations:
 
-* No Load Balancer
 * No Auto Scaling
 * Single environment deployment
 * Basic monitoring only
@@ -629,7 +630,6 @@ Current implementation limitations:
 
 Potential enhancements:
 
-* Add Application Load Balancer (ALB)
 * Implement Auto Scaling
 * Add HTTPS with ACM
 * Use AWS ECR instead of Docker Hub
@@ -670,7 +670,7 @@ DevOps Engineer Practical Challenge Submission
 
 GitHub Repository:
 
-[DevOps Project Repository](https://github.com/Taiwo-Peter2023/devops-project?utm_source=chatgpt.com)
+[DevOps Project Repository](https://github.com/Taiwo-Peter2023/devops-project)
 
 ---
 
@@ -681,6 +681,7 @@ This project successfully demonstrates a production-style DevOps deployment pipe
 * Docker containerization
 * Terraform infrastructure provisioning
 * AWS ECS Fargate deployment
+* Load Balancer
 * GitHub Actions CI/CD automation
 * CloudWatch monitoring
 
