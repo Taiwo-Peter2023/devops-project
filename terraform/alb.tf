@@ -12,7 +12,7 @@ resource "aws_lb" "main" {
 resource "aws_lb_target_group" "app_tg" {
   name        = "devops-target-group"
   port        = 5000
-  protocol    = "HTTP, HTTPS"
+  protocol    = "HTTP"
   target_type = "ip"
   vpc_id      = aws_vpc.main.id
 
